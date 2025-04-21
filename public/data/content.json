@@ -1,0 +1,17 @@
+[
+  {
+    "id": "about",
+    "title": "About Me",
+    "html": "<p>Hello! I'm a passionate web developer building dynamic web apps with <strong>React</strong>.</p>"
+  },
+  {
+    "id": "portfolio",
+    "title": "Portfolio",
+    "html": "<ul><li>Project 1</li><li>Project 2</li></ul>"
+  },
+  {
+    "id": "contact",
+    "title": "Contact Me",
+    "html": "<p>Email: <a href='mailto:me@example.com'>me@example.com</a></p>"
+  }
+]
